@@ -22,12 +22,17 @@ export const HeroTitle = styled.h1`
     font: 900 96px "Poppins";       
     line-height: 120px;
     width: 474px; 
+    background-image: url(https://github.com/user-attachments/assets/6ab02da8-941a-4920-a9d1-2564a5b49abe);
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    
     `
 export const HeroImage = styled.img`
     width: 784px;
     `
 export const HeroText = styled.p`
     font: 300 28px "Poppins";
+    padding-left: 20px;
     `
 export const HeroButton = styled.button`
     font: 300 30px "Poppins";
@@ -38,6 +43,7 @@ export const HeroButton = styled.button`
     font-size: 24px;
     border: none;
     width: fit-content;
+    margin-left: 20px;
     `
     export const HeroElement = styled.img`
     position: absolute;

@@ -9,7 +9,6 @@ export default function Hero() {
                 <HeroTitle>LETS EXPLORE UNIQUE CLOTHES.</HeroTitle>
                 <HeroText>Live for Influential and Innovative fashion!</HeroText>
                 <HeroButton>Shop Now</HeroButton>
-                <HeroElement src={Element} alt="element" />
             </TextWrapper>
             <HeroImage src={VibingGirl} alt="vibing-girl" />
         </HeroContainer>
