@@ -5,6 +5,7 @@ export const HeaderContainer = styled.div`
     display: flex;
     width: 89.58%;
     height: 62px;
+    padding-top: 46px;
     justify-content: space-between;
     align-items: center;
 `
@@ -33,11 +34,11 @@ export const NavText = styled.a`
     color: black;
     `
 export const NavButton = styled.button`
+    font: 300 24px "Poppins";
     background-color: black;
     color: white;
     padding: 13px 22px;
     border-radius: 7px;
-    font-size: 24px;
     border: none;
 
 `
