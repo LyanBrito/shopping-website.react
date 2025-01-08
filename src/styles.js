@@ -5,4 +5,4 @@ export const AppContainer = styled.div`
     flex-direction: column;
     align-items: center;
     gap: 60px;
-`
+`;
