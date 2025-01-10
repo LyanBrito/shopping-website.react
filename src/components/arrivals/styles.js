@@ -29,7 +29,7 @@ export const Card = styled.div`
 export const CardImage = styled.img`
     width: 484px;
 
-`
+`;
 export const CardDescription = styled.div`
     display: flex;
     width: 100%;
@@ -50,7 +50,7 @@ export const CardButton = styled.button`
 export const ArrowImage = styled.img`
     width: 32px;
 
-`
+`;
 export const ArrivalsTitle = styled.h3`
     font: 900 48px "Poppins";
     width: 24.67%;
@@ -64,4 +64,5 @@ export const DescriptionTitle = styled.h6`
 
 export const DescriptionSubTitle = styled.p`
     font: 500 24px "Poppins";    
+    color: #7F7F7F;
 `;
