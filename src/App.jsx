@@ -1,4 +1,5 @@
 import Arrivals from "./components/arrivals/index.jsx";
+import Banner from "./components/banner/index.jsx";
 import Carousel from "./components/carousel/index.jsx";
 import Header from "./components/header/index.jsx";
 import Hero from "./components/hero/index.jsx";
@@ -11,6 +12,7 @@ function App() {
 			<Hero />
 			<Carousel />
 			<Arrivals />
+			<Banner />
 		</AppContainer>
 	);
 }
