@@ -3,7 +3,7 @@ import {
 	GirlUsingPhone,
 	GirlWithGlasses,
 	RightArrow,
-} from "../../assets/svg/export";
+} from "../../../assets/svg/export"
 import {
 	ArrivalsSection,
 	ArrivalsTitle,

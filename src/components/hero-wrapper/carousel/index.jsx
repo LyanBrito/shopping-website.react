@@ -5,7 +5,7 @@ import {
 	LevisIcon,
 	ObeyIcon,
 	ShopfyIcon,
-} from "../../assets/svg/export";
+} from "../../../assets/svg/export"
 
 import { CarouselContainer, CarouselItens, CarouselSection } from "./styles";
 
