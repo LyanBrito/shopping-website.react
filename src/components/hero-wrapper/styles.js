@@ -1,8 +1,9 @@
 import styled from "styled-components";
 
-export const AppContainer = styled.div`
+export const WrapperContainer = styled.div`
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 190px;
+    gap: 60px;
+    width: 100%;
 `;

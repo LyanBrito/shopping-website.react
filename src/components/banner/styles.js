@@ -44,4 +44,10 @@ export const BannerButton = styled.a`
     border-radius: 7px;
     border: none;
     text-decoration: none;
+    cursor: pointer;
+    transition: 0.3s ease;
+    &:hover {
+    background-color: #414144;
+  }
+
 `;

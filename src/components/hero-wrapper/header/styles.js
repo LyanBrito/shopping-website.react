@@ -31,6 +31,11 @@ export const NavText = styled.a`
     font: 400 22px "Poppins";
     text-decoration: none;
     color: black;
+    transition: 0.3s ease;
+    &:hover {
+    color: #E6C744;
+  }
+
     `;
 export const NavButton = styled.button`
     font: 300 24px "Poppins";
@@ -39,5 +44,11 @@ export const NavButton = styled.button`
     padding: 13px 22px;
     border-radius: 7px;
     border: none;
+    cursor: pointer;
+    transition: 0.3s ease;
+    &:hover {
+    background-color: #414144;
+  }
+
 
 `;

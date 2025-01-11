@@ -11,3 +11,5 @@ export { default as GirlPuttingCloath } from "./girl-putting-cloath.svg";
 export { default as GirlUsingPhone } from "./girl-using-phone.svg";
 export { default as GirlWithGlasses } from "./girl-with-glasses.svg";
 export { default as ArrivalsElement } from "./arrivals-element.svg";
+export { default as GirlWithGlassesVibing } from "./girl-with-glasses-vibing.svg";
+export { default as GirlsVibing } from "./girls-vibing.svg";

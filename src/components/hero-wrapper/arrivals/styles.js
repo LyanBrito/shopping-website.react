@@ -45,6 +45,9 @@ export const CardButton = styled.button`
     border: 0;
     width: 32px;
     background-color: transparent;
+    cursor: pointer;
+    transition: 0.3s ease;
+
     `;
 
 export const ArrowImage = styled.img`

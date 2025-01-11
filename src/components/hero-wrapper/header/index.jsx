@@ -1,4 +1,4 @@
-import { Logo } from "../../assets/svg/export";
+import { Logo } from "../../../assets/svg/export";
 import {
 	HeaderContainer,
 	HeaderLogo,

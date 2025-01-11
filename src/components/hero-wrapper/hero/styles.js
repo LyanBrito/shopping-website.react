@@ -43,6 +43,12 @@ export const HeroButton = styled.button`
     border: none;
     width: fit-content;
     margin-left: 20px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    &:hover {
+    background-color: #414144;
+  }
+
     `;
 export const HeroElement = styled.img`
     position: absolute;
