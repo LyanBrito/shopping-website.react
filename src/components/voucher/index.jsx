@@ -1,5 +1,15 @@
-import { DownloadAndroid, DownloadApple, MobilePreview } from "../../assets/svg/export";
-import { DownloadFrames, TextWrapper, VoucherContainer, VoucherText, VoucherTitle } from "./styles";
+import {
+	DownloadAndroid,
+	DownloadApple,
+	MobilePreview,
+} from "../../assets/svg/export";
+import {
+	DownloadFrames,
+	TextWrapper,
+	VoucherContainer,
+	VoucherText,
+	VoucherTitle,
+} from "./styles";
 
 export default function VoucherComponent() {
 	return (
