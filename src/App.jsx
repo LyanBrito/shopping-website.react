@@ -4,6 +4,7 @@
 // import Hero from "./components/hero/index.jsx";
 
 import Banner from "./components/banner/index.jsx";
+import Community from "./components/community/index.jsx";
 import Favourites from "./components/favourites/index.jsx";
 import HeroWrapper from "./components/hero-wrapper/index.jsx";
 import VoucherComponent from "./components/voucher/index.jsx";
@@ -21,7 +22,8 @@ function App() {
 			<HeroWrapper />
 			<Banner />
 			<Favourites />
-			<VoucherComponent/>
+			<VoucherComponent />
+			<Community />
 		</AppContainer>
 	);
 }
