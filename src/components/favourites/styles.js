@@ -66,7 +66,7 @@ export const FavouritesTitle = styled.div`
 export const TitleH3 = styled.h3`
     font: 900 48px "Poppins";
 
-`
+`;
 export const DescriptionTitle = styled.h6`
     font: 500 32px "Poppins";
 `;

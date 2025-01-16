@@ -1,4 +1,4 @@
-import { VibingGirl } from "../../../assets/svg/export"
+import { VibingGirl } from "../../../assets/svg/export";
 import {
 	HeroButton,
 	HeroContainer,

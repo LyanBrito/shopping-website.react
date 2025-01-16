@@ -1,7 +1,11 @@
-# Getting Started with Create React App
+# FASHION
 
 This project is to improve my skills in react, using [styled-components](https://styled-components.com) and more.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Figma design
+
+Here's the [design](https://www.figma.com/design/TP0gj5mPhrkKZT0MDwEmTj/Shopping-Website-(Community)?m=auto&t=ZmIQ42lVfIyMtoje-6) made on figma.
 
 ## Available Scripts
 

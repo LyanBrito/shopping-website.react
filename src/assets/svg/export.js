@@ -13,3 +13,6 @@ export { default as GirlWithGlasses } from "./girl-with-glasses.svg";
 export { default as ArrivalsElement } from "./arrivals-element.svg";
 export { default as GirlWithGlassesVibing } from "./girl-with-glasses-vibing.svg";
 export { default as GirlsVibing } from "./girls-vibing.svg";
+export { default as DownloadApple } from "./download-apple-store.svg";
+export { default as DownloadAndroid } from "./download-google-play.svg";
+export { default as MobilePreview } from "./mobile-preview.svg";

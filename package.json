@@ -15,14 +15,22 @@
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
-		"lint": "@biomejs/biome lint --write ./",
-		"format": "@biomejs/biome format --write ./"
+		"format": "npx @biomejs/biome format --write ./src",
+		"lint": "npx @biomejs/biome lint --write ./src",
+		"check": "npx @biomejs/biome check  --write ./src"
 	},
 	"eslintConfig": {
-		"extends": ["react-app", "react-app/jest"]
+		"extends": [
+			"react-app",
+			"react-app/jest"
+		]
 	},
 	"browserslist": {
-		"production": [">0.2%", "not dead", "not op_mini all"],
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
 		"development": [
 			"last 1 chrome version",
 			"last 1 firefox version",

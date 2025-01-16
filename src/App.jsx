@@ -6,6 +6,7 @@
 import Banner from "./components/banner/index.jsx";
 import Favourites from "./components/favourites/index.jsx";
 import HeroWrapper from "./components/hero-wrapper/index.jsx";
+import VoucherComponent from "./components/voucher/index.jsx";
 import { AppContainer } from "./styles.js";
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
 			<HeroWrapper />
 			<Banner />
 			<Favourites />
+			<VoucherComponent/>
 		</AppContainer>
 	);
 }

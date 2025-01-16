@@ -4,16 +4,13 @@ import Header from "./header";
 import Hero from "./hero";
 import { WrapperContainer } from "./styles.js";
 
-
 export default function HeroWrapper() {
-    return (
-        <WrapperContainer>
-            <Header />
-            <Hero />
-            <Carousel />
-            <Arrivals />
-        </WrapperContainer>
-
-    )
-
+	return (
+		<WrapperContainer>
+			<Header />
+			<Hero />
+			<Carousel />
+			<Arrivals />
+		</WrapperContainer>
+	);
 }
