@@ -7,7 +7,7 @@ export const BannerComponent = styled.div`
     align-items: flex-end;
     width: 100%;
     height: 968px;
-    background-image: url(https://github.com/user-attachments/assets/988bc3f8-28d8-4ad3-919e-697510346587);
+    background-image: url(https://github.com/user-attachments/assets/5708a064-064f-4772-b0d6-0cb2ef048029);
     background-repeat: no-repeat;
     
     `;
