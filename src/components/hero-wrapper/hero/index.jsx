@@ -1,4 +1,4 @@
-import { VibingGirl } from "../../../assets/svg/export";
+import HeroImg from "../../../assets/imgs/girl-with-fur-cloath.jpg";
 import {
 	HeroButton,
 	HeroContainer,
@@ -16,7 +16,7 @@ export default function Hero() {
 				<HeroText>Live for Influential and Innovative fashion!</HeroText>
 				<HeroButton>Shop Now</HeroButton>
 			</TextWrapper>
-			<HeroImage src={VibingGirl} alt="vibing-girl" />
+			<HeroImage src={HeroImg} alt="vibing-girl" />
 		</HeroContainer>
 	);
 }
