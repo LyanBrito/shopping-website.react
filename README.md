@@ -75,7 +75,7 @@ Contribuições são bem-vindas! Abra uma issue ou faça um fork para melhorias.
 ### 🔗 Links
 
 <div>
-  <a href=""><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react-link"></a>
-  <a href=""><img src="https://img.shields.io/badge/Styled_Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components-link"></a>
-  <a href=""><img src="https://img.shields.io/badge/Biome-60A5FA.svg?style=for-the-badge&logo=Biome&logoColor=white" alt="biome-link"></a>
+  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react-link"></a>
+  <a href="https://styled-components.com"><img src="https://img.shields.io/badge/Styled_Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components-link"></a>
+  <a href="https://biomejs.dev/pt-br/"><img src="https://img.shields.io/badge/Biome-60A5FA.svg?style=for-the-badge&logo=Biome&logoColor=white" alt="biome-link"></a>
 </div>
