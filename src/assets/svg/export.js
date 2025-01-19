@@ -1,4 +1,3 @@
-export { default as VibingGirl } from "./vibing-girl.svg";
 export { default as HMIcon } from "./h-m-icon.svg";
 export { default as AmazonIcon } from "./amazon-icon.svg";
 export { default as LacosteIcon } from "./lacoste-icon.svg";
