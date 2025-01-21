@@ -1,9 +1,8 @@
-import {
-	GirlPuttingCloath,
-	GirlUsingPhone,
-	GirlWithGlasses,
-	RightArrow,
-} from "../../../assets/svg/export";
+import GirlPuttingCloath from "../../../assets/imgs/girl-putting-cloath.png";
+import GirlUsingPhone from "../../../assets/imgs/girl-using-phone.png";
+import GirlWithGlasses from "../../../assets/imgs/girl-with-glasses.png";
+
+import { RightArrow } from "../../../assets/svg/export";
 import {
 	ArrivalsSection,
 	ArrivalsTitle,
