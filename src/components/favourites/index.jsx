@@ -1,8 +1,6 @@
-import {
-	GirlWithGlassesVibing,
-	GirlsVibing,
-	RightArrow,
-} from "../../assets/svg/export";
+import GirlWithGlassesVibing from "../../assets/imgs/girl-with-glasses-vibing.png";
+import GirlsVibing from "../../assets/imgs/girls-vibing.png";
+import { RightArrow } from "../../assets/svg/export";
 import {
 	ArrowImage,
 	Card,
