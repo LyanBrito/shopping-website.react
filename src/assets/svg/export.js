@@ -9,3 +9,7 @@ export { default as RightArrow } from "./right-arrow.svg";
 export { default as DownloadApple } from "./download-apple-store.svg";
 export { default as DownloadAndroid } from "./download-google-play.svg";
 export { default as MobilePreview } from "./mobile-preview.svg";
+export { default as FaceIcon } from "./face-icon.svg";
+export { default as InstaIcon } from "./insta-icon.svg";
+export { default as LinkedinIcon } from "./linkedin-icon.svg";
+export { default as TwitterIcon } from "./twitter-icon.svg";
